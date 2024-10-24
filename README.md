@@ -14,6 +14,15 @@
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:glambertucci/contact-duplicate-detector.git
+   git clone https://github.com/glambertucci/contact-duplicate-detector.git
    cd contact-duplicate-detector
-    python main.py
+   ```
+2. Run program:
+``` bash
+   python main.py
+```
+See matches.csv for results
+3. Testing
+``` bash
+python -m unittest test_main.py
+```
