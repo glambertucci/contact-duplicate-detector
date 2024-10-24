@@ -1,0 +1,2 @@
+# contact-duplicate-detector
+potentialDuplicates
